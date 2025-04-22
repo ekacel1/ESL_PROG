@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.esl-prog.fr/sitemap.xml
+
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /admin/
